@@ -1,0 +1,14 @@
+{
+    "firstProduct":{
+        "Description": "Blue Top",
+        "Quantity": "1",
+        "Price": "500",
+        "TotalPrice": "500"
+    },
+    "secondProduct":{
+        "Description": "Men Tshirt",
+        "Quantity": "1",
+        "Price": "400",
+        "TotalPrice": "400"
+    }
+}
