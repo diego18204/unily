@@ -3,7 +3,6 @@
 const locators = require('../../fixtures/locators.json');
 
 describe('Automation Exercise Test 13', () => {
-    // Step 1: Launch browser and navigate to URL
     it('should navigate to the home page', () => {
         cy.visit(locators.url);
         cy.get(locators.homePageBody).should('be.visible');
